@@ -13,6 +13,11 @@ text3...
 text6...<br/>
 This file is for a markdown test.
 
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Code block
 ### (No Language)
 ```
