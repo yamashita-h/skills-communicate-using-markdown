@@ -12,3 +12,5 @@ text3...
 ###### H6 Header
 text6...<br/>
 This file is for a markdown test.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
