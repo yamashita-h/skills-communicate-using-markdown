@@ -13,4 +13,17 @@ text3...
 text6...<br/>
 This file is for a markdown test.
 
+## Code block
+### (No Language)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+### JavaScript
+``` javascript
+var myVar = "Hello, world!";
+```
+
+## Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
